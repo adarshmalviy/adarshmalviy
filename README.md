@@ -4,6 +4,14 @@
 
 Hello, I'm Adarsh, a dedicated software developer specializing in backend systems. I am passionate about crafting efficient solutions to complex technical challenges. With robust skills in machine learning and a strong interest in tackling data-intensive problems, I am well-equipped to transform data into actionable insights. I excel in Python and C++, navigating various frameworks and databases to deliver exceptional applications.
 
+<div align="center">
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshmalviy&" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/adarshmalviy/adarshmalviy/output/snake.svg" alt="Snake animation" />
+</div>
+
 ## Featured Projects
 - [**Ecommerce Sales Analysis 🛒**](https://github.com/adarshmalviy/Ecommerce-sales-Analysis): Unearthing trends and narratives from sales data, transforming numbers into actionable insights.
 - [**Flight Booking System ✈️**](https://github.com/adarshmalviy/flight_booking): Streamlining travel with a user-friendly platform.
@@ -19,9 +27,94 @@ Hello, I'm Adarsh, a dedicated software developer specializing in backend system
 - **Machine Learning/Deep Learning**: Skilled in building and deploying predictive models that drive decision-making
 - **Containerization and Orchestration**: Docker, AWS services related to container management
 
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="30" alt="atom logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="30" alt="gcc logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" alt="heroku logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="30" alt="pytest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
+
+###
 
 ## Connect With Me!
 I'm always open to discussing new technologies, backend systems, machine learning applications, or anything tech-related. Feel free to reach out through any of the platforms below!
 - 📫 **Email**: [adarshmalvi77@gmail.com](mailto:adarshmalvi77@gmail.com)
 - 💼 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/adarshmalviya/)
 - 🔗 **GitHub**: [Adarsh Malviya](https://github.com/adarshmalviy)
+
+
+
+<div align="center">
+  <h3>Profile views</h3>
+  <img src="https://profile-counter.glitch.me/adarshmalviy/count.svg?" alt="Profile Counter" />
+</div>
+
