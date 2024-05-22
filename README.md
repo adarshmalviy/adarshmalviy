@@ -4,13 +4,6 @@
 
 Hello, I'm Adarsh, a dedicated software developer specializing in backend systems. I am passionate about crafting efficient solutions to complex technical challenges. With robust skills in machine learning and a strong interest in tackling data-intensive problems, I am well-equipped to transform data into actionable insights. I excel in Python and C++, navigating various frameworks and databases to deliver exceptional applications.
 
-<div align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshmalviy&" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/adarshmalviy/adarshmalviy/output/snake.svg" alt="Snake animation" />
-</div>
 
 ## Featured Projects
 - [**Ecommerce Sales Analysis 🛒**](https://github.com/adarshmalviy/Ecommerce-sales-Analysis): Unearthing trends and narratives from sales data, transforming numbers into actionable insights.
@@ -105,6 +98,13 @@ Hello, I'm Adarsh, a dedicated software developer specializing in backend system
 
 ###
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/adarshmalviy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshmalviy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/adarshmalviy/adarshmalviy/output/snake.svg" alt="Snake animation" />
+</div>
 ## Connect With Me!
 I'm always open to discussing new technologies, backend systems, machine learning applications, or anything tech-related. Feel free to reach out through any of the platforms below!
 - 📫 **Email**: [adarshmalvi77@gmail.com](mailto:adarshmalvi77@gmail.com)
