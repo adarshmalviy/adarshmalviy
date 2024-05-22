@@ -105,6 +105,7 @@ Hello, I'm Adarsh, a dedicated software developer specializing in backend system
 <div align="center">
   <img src="https://raw.githubusercontent.com/adarshmalviy/adarshmalviy/output/snake.svg" alt="Snake animation" />
 </div>
+
 ## Connect With Me!
 I'm always open to discussing new technologies, backend systems, machine learning applications, or anything tech-related. Feel free to reach out through any of the platforms below!
 - 📫 **Email**: [adarshmalvi77@gmail.com](mailto:adarshmalvi77@gmail.com)
