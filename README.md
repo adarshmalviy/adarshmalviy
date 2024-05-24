@@ -110,7 +110,7 @@ Hello, I'm Adarsh, a dedicated software developer specializing in backend system
 I'm always open to discussing new technologies, backend systems, machine learning applications, or anything tech-related. Feel free to reach out through any of the platforms below!
 - 📫 **Email**: [adarshmalvi77@gmail.com](mailto:adarshmalvi77@gmail.com)
 - 💼 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/adarshmalviya/)
-- 🔗 **GitHub**: [Adarsh Malviya](https://github.com/adarshmalviy)
+
 
 
 
