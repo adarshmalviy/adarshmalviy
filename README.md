@@ -7,7 +7,6 @@ Hello, I'm Adarsh, a dedicated software developer specializing in backend system
 
 ## Featured Projects
 - [**Ecommerce Sales Analysis 🛒**](https://github.com/adarshmalviy/Ecommerce-sales-Analysis): Unearthing trends and narratives from sales data, transforming numbers into actionable insights.
-- [**Flight Booking System ✈️**](https://github.com/adarshmalviy/flight_booking): Streamlining travel with a user-friendly platform.
 - [**Bank Note Authentication 💵**](https://github.com/adarshmalviy/Bank-Note-Authentication): Leveraging machine learning to discern genuine from fake, ensuring trust one note at a time.
 - [**Heart Disease Prediction ❤️**](https://github.com/adarshmalviy/Heart-Disease-Prediction): Combining healthcare and predictive analytics to forecast health risks and improve lives.
 - [**Google Calendar Integration 📅**](https://github.com/adarshmalviy/google-calender-integration): Syncing schedules seamlessly, enhancing productivity with smart integrations.
