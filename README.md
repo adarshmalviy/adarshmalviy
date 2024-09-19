@@ -1,22 +1,8 @@
 ## About Me
 
-Ever wonder what makes a system run smoother? That’s what gets me excited! 
+**Ever wonder what makes a system run smoother? That’s what gets me excited!**
+
 I’m Adarsh, a backend developer who loves optimizing processes and finding better ways to solve problems. With Python and C++ as my go-to tools, I focus on turning complex data into scalable, efficient solutions. Whether it's fine-tuning a backend system or improving a machine learning model, I’m all about making things faster, smarter, and more reliable.
-
-
-## Featured Projects
-- [**Ecommerce Sales Analysis 🛒**](https://github.com/adarshmalviy/Ecommerce-sales-Analysis): Unearthing trends and narratives from sales data, transforming numbers into actionable insights.
-- [**Bank Note Authentication 💵**](https://github.com/adarshmalviy/Bank-Note-Authentication): Leveraging machine learning to discern genuine from fake, ensuring trust one note at a time.
-- [**Heart Disease Prediction ❤️**](https://github.com/adarshmalviy/Heart-Disease-Prediction): Combining healthcare and predictive analytics to forecast health risks and improve lives.
-- [**Google Calendar Integration 📅**](https://github.com/adarshmalviy/google-calender-integration): Syncing schedules seamlessly, enhancing productivity with smart integrations.
-
-## My Technical Toolkit
-- **Programming Languages**: Python, C++ (advanced)
-- **API Development**: FastAPI (my go-to tool for APIs), Django REST framework
-- **Web Frameworks**: Django, Flask, Streamlit
-- **Databases**: Proficient with relational and non-relational databases
-- **Machine Learning/Deep Learning**: Skilled in building and deploying predictive models that drive decision-making
-- **Containerization and Orchestration**: Docker, AWS
 
 ###
 
@@ -108,7 +94,6 @@ I’m Adarsh, a backend developer who loves optimizing processes and finding bet
 I'm always open to discussing new technologies, backend systems, machine learning applications, or anything tech-related. Feel free to reach out through any of the platforms below!
 - 📫 **Email**: [adarshmalvi77@gmail.com](mailto:adarshmalvi77@gmail.com)
 - 💼 **LinkedIn**: [adarshmalviya](https://www.linkedin.com/in/adarshmalviya/)
-
 
 
 
