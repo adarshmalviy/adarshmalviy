@@ -2,7 +2,7 @@
 
 **Ever wonder what makes a system run smoother? That’s what gets me excited!**
 
-I’m Adarsh, a backend developer who loves optimizing processes and finding better ways to solve problems. With Python and C++ as my go-to tools, I focus on turning complex data into scalable, efficient solutions. Whether it's fine-tuning a backend system or improving a machine learning model, I’m all about making things faster, smarter, and more reliable.
+I’m Adarsh, a developer who loves optimizing processes and finding better ways to solve problems. With Python, GO and C++ as my go-to tools, I focus on turning complex data into scalable, efficient solutions. Whether it's fine-tuning a backend system or improving a machine learning model, I’m all about making things faster, smarter, and more reliable.
 
 ###
 
